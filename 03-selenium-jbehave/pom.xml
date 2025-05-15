@@ -18,7 +18,7 @@
     <maven-compiler-plugin-version>3.8.0</maven-compiler-plugin-version>
     <maven-surefire-plugin-version>3.0.0-M3</maven-surefire-plugin-version>
     <selenium-jupiter-version>3.2.0</selenium-jupiter-version>
-    <bonigarcia-webdriver-version>3.4.0</bonigarcia-webdriver-version>
+    <bonigarcia-webdriver-version>6.1.0</bonigarcia-webdriver-version>
     <htmlunit-driver-version>2.35.1</htmlunit-driver-version>
     <selenium.version>3.141.59</selenium.version>
   </properties>
